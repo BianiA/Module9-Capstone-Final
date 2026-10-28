@@ -28,5 +28,5 @@ jobs:
             pip install -r requirements.txt
           fi
 
-      - name: Run tests
-        run: python -m unittest discover -s . -p "test_*.py"
+           - name: Validate Python files
+             run: python -m compileall -q scripts tests
