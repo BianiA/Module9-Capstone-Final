@@ -1,0 +1,12 @@
+{
+  "raw_rows": 10000,
+  "accepted_rows": 10000,
+  "rejected_rows": 0,
+  "duplicates_removed": 0,
+  "null_values": 0,
+  "foreign_key_violations": 0,
+  "source_target_rows_match": true,
+  "source_target_cents_match": true,
+  "raw_sha256": "3c2979474030366c7cbdfe1921451cf9ce03cfd791f9711602fc6c2c6cc6a370",
+  "raw_unchanged": true
+}

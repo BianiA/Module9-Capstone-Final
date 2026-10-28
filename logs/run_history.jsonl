@@ -1,0 +1,3 @@
+{"run_id": "3a2a0579743b4647a6dd6f9e2547eea3", "started_utc": "2026-10-28T14:40:43.263969+00:00", "status": "success", "rows": 10000, "revenue_cents": 268199306, "duration_seconds": 0.4163, "finished_utc": "2026-10-28T14:40:43.680230+00:00"}
+{"run_id": "e0b5e88a1b0e4fd8aa378a842af7694a", "started_utc": "2026-10-28T14:47:13.000787+00:00", "status": "success", "rows": 10000, "revenue_cents": 268199306, "duration_seconds": 0.3538, "finished_utc": "2026-10-28T14:47:13.354544+00:00"}
+{"run_id": "c7dfb1ecc6e843f9baa0303e942d1887", "started_utc": "2026-10-28T14:47:14.285302+00:00", "status": "success", "rows": 10000, "revenue_cents": 268199306, "duration_seconds": 0.3838, "finished_utc": "2026-10-28T14:47:14.669067+00:00"}

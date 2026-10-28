@@ -1,0 +1,9 @@
+{
+  "run_id": "c7dfb1ecc6e843f9baa0303e942d1887",
+  "started_utc": "2026-10-28T14:47:14.285302+00:00",
+  "status": "success",
+  "rows": 10000,
+  "revenue_cents": 268199306,
+  "duration_seconds": 0.3838,
+  "finished_utc": "2026-10-28T14:47:14.669067+00:00"
+}

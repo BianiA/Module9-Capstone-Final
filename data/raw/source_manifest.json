@@ -1,0 +1,25 @@
+{
+  "source": "Random User Generator API v1.4 (public API alternative allowed in rubric)",
+  "retrieved_date": "2026-10-28",
+  "sources": [
+    {
+      "url": "https://randomuser.me/api/1.4/?results=5000&seed=capstone09-2026&page=1&nat=ca,us,gb,au&inc=name,dob,location&format=json",
+      "file": "api_page_1.json",
+      "sha256": "65b88c92c73536879f3ecfc108a62cfb979062e58b2b0f78e914c39b73d95136"
+    },
+    {
+      "url": "https://randomuser.me/api/1.4/?results=5000&seed=capstone09-2026&page=2&nat=ca,us,gb,au&inc=name,dob,location&format=json",
+      "file": "api_page_2.json",
+      "sha256": "23c8967f549df0508b6b631342192b551298aa2312372ae781ebb74f4b1fa32f"
+    }
+  ],
+  "rows": 10000,
+  "seed": 20261028,
+  "synthetic_fields": [
+    "CustomerID: sequential surrogate ID",
+    "PurchaseAmount: seeded lognormal cents, mu=9.8 sigma=0.9, clamped 1..500000 cents; all amounts CAD",
+    "Date: seeded uniform day in calendar 2025"
+  ],
+  "note": "Names, ages and countries are synthetic API profiles. Ages are supplied API snapshot values. Purchases and dates are locally simulated, not observed transactions.",
+  "dataset_sha256": "3c2979474030366c7cbdfe1921451cf9ce03cfd791f9711602fc6c2c6cc6a370"
+}

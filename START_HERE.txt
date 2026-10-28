@@ -1,0 +1,27 @@
+CAPSTONE 09 - START HERE
+
+1. Extract the project ZIP.
+2. Open capstone09-model-building/dashboards/Customer_Purchases_Dashboard.xlsx in Excel.
+   If you do not have Excel, open dashboard_preview.png in the same folder.
+3. Open diagrams/customer_purchase_erd.png to see the data model.
+4. Read STUDY_GUIDE.md and README.md to understand the pipeline.
+
+TO RUN
+Open a terminal in capstone09-model-building and run:
+  python scripts/pipeline.py
+  python -m unittest discover -s tests -v
+The core project needs only Python 3.10+; no API key or paid cloud account is needed.
+
+IMPORTANT: THIS ASSIGNMENT REQUIRES A GITHUB LINK ON CANVAS
+The ZIP contains prepared project files. It has NOT been published to your GitHub.
+- Sign in to github.com and create a repository named capstone09-model-building.
+- Upload the files INSIDE the extracted project folder. Keep its subfolders.
+- Include the .github/workflows/pipeline.yml file for automated runs.
+- Open the repository's Actions tab and manually run the included workflow.
+- Check the run succeeds and keep a real screenshot as deployment evidence.
+- Make sure the instructor can access the repository.
+- Paste the repository URL in the Canvas submission.
+The alternate Windows scheduling script is also supplied but is not installed.
+
+The repository bundle preserves the local commit history for Git users.
+If using the browser uploader, upload project contents, not just the bundle or ZIP.

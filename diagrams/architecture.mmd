@@ -1,0 +1,11 @@
+flowchart TD
+  A[Public API profile snapshots] --> C[10,000-row raw purchase CSV]
+  B[Seeded purchase simulation] --> C
+  C --> D[Clean and validate]
+  E[Country lookup] --> D
+  D --> F{Quality gate}
+  F -->|Valid| G[SQLite star schema]
+  F -->|Invalid| H[Failure log and rejected rows]
+  G --> I[Final CSV and summaries]
+  I --> J[Excel dashboard]
+  G --> K[Run status and reconciliation logs]

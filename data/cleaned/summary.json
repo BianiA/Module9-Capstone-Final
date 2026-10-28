@@ -1,0 +1,117 @@
+{
+  "rows": 10000,
+  "customers": 10000,
+  "revenue_cents": 268199306,
+  "revenue_cad": 2681993.06,
+  "average_purchase_cad": 268.199306,
+  "countries": 4,
+  "min_date": "2025-01-01",
+  "max_date": "2025-12-31",
+  "country": [
+    {
+      "country": "United States",
+      "purchases": 2516,
+      "revenue_cents": 69522029
+    },
+    {
+      "country": "United Kingdom",
+      "purchases": 2529,
+      "revenue_cents": 69201205
+    },
+    {
+      "country": "Canada",
+      "purchases": 2493,
+      "revenue_cents": 66857159
+    },
+    {
+      "country": "Australia",
+      "purchases": 2462,
+      "revenue_cents": 62618913
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2025-01",
+      "revenue_cents": 22111452
+    },
+    {
+      "month": "2025-02",
+      "revenue_cents": 22846028
+    },
+    {
+      "month": "2025-03",
+      "revenue_cents": 22048277
+    },
+    {
+      "month": "2025-04",
+      "revenue_cents": 22522913
+    },
+    {
+      "month": "2025-05",
+      "revenue_cents": 24420033
+    },
+    {
+      "month": "2025-06",
+      "revenue_cents": 23110531
+    },
+    {
+      "month": "2025-07",
+      "revenue_cents": 21584684
+    },
+    {
+      "month": "2025-08",
+      "revenue_cents": 22838494
+    },
+    {
+      "month": "2025-09",
+      "revenue_cents": 21716040
+    },
+    {
+      "month": "2025-10",
+      "revenue_cents": 22269368
+    },
+    {
+      "month": "2025-11",
+      "revenue_cents": 21076388
+    },
+    {
+      "month": "2025-12",
+      "revenue_cents": 21655098
+    }
+  ],
+  "age": [
+    {
+      "age_group": "Adult",
+      "purchases": 2653,
+      "revenue_cents": 72724153
+    },
+    {
+      "age_group": "Senior",
+      "purchases": 5470,
+      "revenue_cents": 144233571
+    },
+    {
+      "age_group": "Young Adult",
+      "purchases": 1877,
+      "revenue_cents": 51241582
+    }
+  ],
+  "category": [
+    {
+      "category": "High",
+      "purchases": 928
+    },
+    {
+      "category": "Low",
+      "purchases": 2586
+    },
+    {
+      "category": "Medium",
+      "purchases": 6185
+    },
+    {
+      "category": "VIP",
+      "purchases": 301
+    }
+  ]
+}

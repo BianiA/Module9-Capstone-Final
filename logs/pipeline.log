@@ -1,0 +1,18 @@
+2026-10-28 10:40:43,264 INFO START run_id=3a2a0579743b4647a6dd6f9e2547eea3
+2026-10-28 10:40:43,283 INFO INGEST raw_rows=10000 sha256=3c2979474030366c7cbdfe1921451cf9ce03cfd791f9711602fc6c2c6cc6a370
+2026-10-28 10:40:43,381 INFO CLEAN accepted=10000 rejected=0 exact_duplicates=0
+2026-10-28 10:40:43,390 INFO ENRICH many-to-one country join validated; derived age/category/month/currency
+2026-10-28 10:40:43,680 INFO LOAD target_rows=10000 revenue_cents=268199306 integrity=ok
+2026-10-28 10:40:43,680 INFO END status=success duration_seconds=0.4163
+2026-10-28 10:47:13,000 INFO START run_id=e0b5e88a1b0e4fd8aa378a842af7694a
+2026-10-28 10:47:13,020 INFO INGEST raw_rows=10000 sha256=3c2979474030366c7cbdfe1921451cf9ce03cfd791f9711602fc6c2c6cc6a370
+2026-10-28 10:47:13,104 INFO CLEAN accepted=10000 rejected=0 exact_duplicates=0
+2026-10-28 10:47:13,114 INFO ENRICH many-to-one country join validated; derived age/category/month/currency
+2026-10-28 10:47:13,354 INFO LOAD target_rows=10000 revenue_cents=268199306 integrity=ok
+2026-10-28 10:47:13,354 INFO END status=success duration_seconds=0.3538
+2026-10-28 10:47:14,285 INFO START run_id=c7dfb1ecc6e843f9baa0303e942d1887
+2026-10-28 10:47:14,309 INFO INGEST raw_rows=10000 sha256=3c2979474030366c7cbdfe1921451cf9ce03cfd791f9711602fc6c2c6cc6a370
+2026-10-28 10:47:14,399 INFO CLEAN accepted=10000 rejected=0 exact_duplicates=0
+2026-10-28 10:47:14,412 INFO ENRICH many-to-one country join validated; derived age/category/month/currency
+2026-10-28 10:47:14,668 INFO LOAD target_rows=10000 revenue_cents=268199306 integrity=ok
+2026-10-28 10:47:14,669 INFO END status=success duration_seconds=0.3838

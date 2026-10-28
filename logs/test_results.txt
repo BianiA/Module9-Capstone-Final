@@ -1,0 +1,10 @@
+test_bad_records_quarantined (test_pipeline.PipelineTests.test_bad_records_quarantined) ... ok
+test_boundaries (test_pipeline.PipelineTests.test_boundaries) ... ok
+test_clean_and_duplicate (test_pipeline.PipelineTests.test_clean_and_duplicate) ... ok
+test_conflicting_ids_fail (test_pipeline.PipelineTests.test_conflicting_ids_fail) ... ok
+test_reconciliation_idempotence_and_failure (test_pipeline.PipelineTests.test_reconciliation_idempotence_and_failure) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 1.079s
+
+OK
